@@ -73,8 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsha077&theme=tokyo
-&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsha077&theme=tokyo&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -84,8 +83,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsha077&theme=chartreuse-dark
-" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsha077&theme=chartreuse-dark" alt="Contribution Graph" />
 </p>
 
 <h2 align="center">🏆 Achievements</h2>
@@ -96,24 +94,24 @@
   🚩 Wining CTFs and Hackathons
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://github.com/abhinavsha077">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/abhinavsha077">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhinavsha077@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <h2 align="center">⚡ Th3 W0r1d Is 4 Buggy Pr0gram  ⚡</h2>
 <p align="center">
 <img src="https://img.itch.zone/aW1nLzI2ODYyMjQuZ2lm/original/Rpb51%2B.gif" width="500" alt="fun gif"/>
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider"/>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav-sharma-4047b526a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://github.com/abhinavsha077/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GiHub" height="30" width="30" /></a>
+  <a href="mailto:abhinavsha077@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://hashnode.com/@abhinav404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="Hashnode" height="30" width="30" /></a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer"/>
 </p>
