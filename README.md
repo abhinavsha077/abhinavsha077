@@ -73,11 +73,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsha077&theme=github_dark&utcOffset=5.5" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsha077&theme=dark&utcOffset=5" alt="Commits (UTC +5)" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsha077&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsha077&theme=dark" alt="Top Languages by Repo" />
 </p>
 
 <h2 align="center">Contribution Graph</h2>
