@@ -7,17 +7,17 @@
 </p>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="200" alt="Cybersecurity Gif"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Cybersecurity Gif"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinavsha077&style=flat-square&color=blue" alt="Profile views counter"/>
 </p>
 
-<h3 align="center">🛡️ Protecting the digital frontier 💻</h3>
+<h3 align="center">Protecting the digital frontier</h3>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="650" height="400" alt="cybersecurity gif"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/animation_500_kxa883sd.gif" width="650" height="400" alt="cybersecurity gif"/>
 </div>
 
 <p align="center">
@@ -27,13 +27,13 @@
 <h2 align="center">$Whoami</h2>
 
 <p align="center">
-  🙋🏻‍♂️ A person who is Passionate about cybersecurity and Hacking<br>
-  💻 Who is Continuously learning and exploring new technologies<br>
-  🌐 And is Dedicated to securing the digital landscape<br>
-  🎓 Also, Just Another Student
+  A person who is passionate about cybersecurity and hacking<br>
+  Continuously learning and exploring new technologies<br>
+  Dedicated to securing the digital landscape<br>
+  Also, just another student
 </p>
 
-<h2 align="center">🔧 Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Penetration%20Testing-FF6C37?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Penetration Testing" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Digital%20Forensics-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Digital Forensics" />
 </p>
 
-<h2 align="center">💻 Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -59,42 +59,42 @@
 </p>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="500" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" alt="coding gif"/>
 </div>
 
-<h2 align="center">📶 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsha077&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsha077&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsha077&theme=chartreuse-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhinavsha077&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsha077&theme=tokyo&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsha077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsha077&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsha077&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsha077&theme=chartreuse-dark" alt="Contribution Graph" />
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <p align="center">
-  🥇 HackTheBox Hacker<br>
-  🌟 TryHackMe Top 1%<br>
-  🚩 Wining CTFs and Hackathons
+  HackTheBox Hacker<br>
+  TryHackMe Top 1%<br>
+  Winning CTFs and Hackathons
 </p>
 
-<h2 align="center">⚡ Th3 W0r1d Is 4 Buggy Pr0gram  ⚡</h2>
+<h2 align="center">Th3 W0r1d Is 4 Buggy Pr0gram</h2>
 <p align="center">
 <img src="https://img.itch.zone/aW1nLzI2ODYyMjQuZ2lm/original/Rpb51%2B.gif" width="500" alt="fun gif"/>
 </p>
