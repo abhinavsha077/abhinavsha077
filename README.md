@@ -72,12 +72,21 @@
   <img src="https://streak-stats.demolab.com/?user=abhinavsha077&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsha077&theme=dark&utcOffset=5" alt="Commits (UTC +5)" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Commits (UTC +5)</strong><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsha077&theme=github_dark&utcOffset=5" alt="Commits (UTC +5)" />
+    </td>
+    <td align="center">
+      <strong>Top Languages by Repo</strong><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsha077&theme=github_dark" alt="Top Languages by Repo" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsha077&theme=dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavsha077&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <h2 align="center">Contribution Graph</h2>
