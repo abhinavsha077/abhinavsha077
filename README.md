@@ -65,7 +65,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinavsha077&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavsha077&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -73,11 +73,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsha077&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsha077&theme=github_dark&utcOffset=5.5" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhinavsha077&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsha077&theme=github_dark" alt="Top Languages" />
 </p>
 
 <h2 align="center">Contribution Graph</h2>
